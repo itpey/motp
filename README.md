@@ -138,4 +138,4 @@ motp is open-source software released under the MIT License. You can find a copy
 
 # Author
 
-JetTest was created by [itpey](https://github.com/itpey)
+motp was created by [itpey](https://github.com/itpey)

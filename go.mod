@@ -1,6 +1,6 @@
 module github.com/itpey/motp
 
-go 1.22.0
+go 1.21.10
 
 require github.com/urfave/cli/v2 v2.27.2
 
