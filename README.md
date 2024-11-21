@@ -120,7 +120,6 @@ Flags
 - `--pin, -p`: mOTP PIN value (usually 4 digits) **[required]**
 - `--duration, -d`: Duration of mOTP codes in seconds (default 10s) **[optional]**
 - `--length, -l`: Length of mOTP output (default 6 characters) **[optional]**
--
 
 ## Example
 
